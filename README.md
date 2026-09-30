@@ -7,7 +7,7 @@ SENAI | Desenvolvimento de Software | Tecnologia
 </div>
 Sobre mim
 
-Olá, sou Priscilla Delfino, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas no SENAI.
+Oii! :D, sou Priscilla Delfino, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas no SENAI.
 
 Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvimento de software, buscando transformar o que aprendo em projetos práticos e continuar evoluindo na área de tecnologia.
 
